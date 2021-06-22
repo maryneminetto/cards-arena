@@ -14,6 +14,6 @@ C'est un projet qui se présente en trois temps:
 
 ### Technologie utilisée
 + HTML
-+ CSS 
++ CSS
 + PHP
 
