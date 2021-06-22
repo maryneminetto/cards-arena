@@ -69,7 +69,7 @@ if(sizeof($arrPerso)<1){
     array_push($arrPerso , $$_POST['name']);
 }
 
-//$$_POST['name']->setLevel(20);
+$$_POST['name']->setLevel(20);
 
 $$_POST['name']->getLevel();
 
